@@ -1,0 +1,15 @@
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/bin/Debug/net9.0/ResumeAI.Application.deps.json
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/bin/Debug/net9.0/ResumeAI.Application.dll
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/bin/Debug/net9.0/ResumeAI.Application.pdb
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/bin/Debug/net9.0/ResumeAI.Domain.dll
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/bin/Debug/net9.0/ResumeAI.Domain.pdb
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.csproj.AssemblyReference.cache
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.AssemblyInfoInputs.cache
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.AssemblyInfo.cs
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.csproj.CoreCompileInputs.cache
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.B6EE18C1.Up2Date
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.dll
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/refint/ResumeAI.Application.dll
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ResumeAI.Application.pdb
+/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Application/obj/Debug/net9.0/ref/ResumeAI.Application.dll

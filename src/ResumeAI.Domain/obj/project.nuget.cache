@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ib+wo1Nnedw=",
+  "success": true,
+  "projectFilePath": "/Users/sudi/Desktop/dotnet/ResumeAI/src/ResumeAI.Domain/ResumeAI.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sudi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

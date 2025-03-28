@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NZ1EICFNT6fh4VMHCmP89jZxokMZfYY6MOIEtbtX+pw=",
+  "Source": "ResumeAI.API",
+  "BasePath": "_content/ResumeAI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
